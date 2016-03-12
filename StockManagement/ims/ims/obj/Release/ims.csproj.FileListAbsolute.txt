@@ -1,0 +1,4 @@
+c:\users\fortune\documents\visual studio 2012\Projects\ims\ims\bin\Release\ims.dll
+c:\users\fortune\documents\visual studio 2012\Projects\ims\ims\bin\Release\ims.pdb
+c:\users\fortune\documents\visual studio 2012\Projects\ims\ims\obj\Release\ims.dll
+c:\users\fortune\documents\visual studio 2012\Projects\ims\ims\obj\Release\ims.pdb
