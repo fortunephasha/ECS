@@ -1,5 +1,0 @@
-c:\users\fortune\documents\visual studio 2012\Projects\ims\ims\bin\Debug\ims.dll
-c:\users\fortune\documents\visual studio 2012\Projects\ims\ims\bin\Debug\ims.pdb
-c:\users\fortune\documents\visual studio 2012\Projects\ims\ims\obj\Debug\ims.dll
-c:\users\fortune\documents\visual studio 2012\Projects\ims\ims\obj\Debug\ims.pdb
-C:\Users\Fortune\documents\visual studio 2012\Projects\ims\ims\obj\Debug\ims.csprojResolveAssemblyReference.cache
